@@ -1,0 +1,9 @@
+Download Link: https://assignmentchef.com/product/solved-com301-assignment-1-linux-access-control
+<br>
+The goal of this homework is to better understand how the Linux access control works. For this task you will have first to download and install the VM environment that is set up for the homework exercises. Once the VM is ready, download the provided files, namely <em>mailbox </em>and <em>share</em>.
+
+<strong>New IT manager</strong>
+
+You are the new IT manager of a big company called E corp. Your boss, Philip Price, just sent you an email. In this email you will find the first task that is assigned to you. You can easily access your mailbox using the executable mailbox. Your email password is your sciper. Be careful to enter it correctly otherwise your token will not be accepted.
+
+The task is simple. You must create a folder called <em>fiveNine </em>and you will have to assign the access rights to the employees of the company. For a preciser description of your task, please read the email sent by Mr Price. This email specifies the owners, owner’s department and the names of each file you will need to create to complete your task. The content of files does not matter but make sure that the access and file names are exact matches (case sensitive) of the specification. Moreover, the fiveNine folder should not contain any files besides the ones you have just created. You should get a result similar to the one in the picture below. Once you are done, you must run the program <em>share </em>for the fiveNine folder to be available to all your colleagues. If access rights are correct <em>share </em>provides you a grade token which you can submit to our site to pass the exercise. Grade tokens are non-transferable.
